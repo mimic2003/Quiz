@@ -1,0 +1,182 @@
+[
+    {
+        "QuestionNo": 1,
+        "question": "What is your name?",
+        "option1": "John",
+        "option2": "Michael",
+        "option3": "Emily",
+        "option4": "Sarah",
+        "ans": "John"
+    },
+    {
+        "QuestionNo": 2,
+        "question": "What is the capital of France?",
+        "option1": "London",
+        "option2": "Berlin",
+        "option3": "Paris",
+        "option4": "Rome",
+        "ans": "Paris"
+    },
+    {
+        "QuestionNo": 3,
+        "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+        "option1": "Ernest Hemingway",
+        "option2": "J.K. Rowling",
+        "option3": "Harper Lee",
+        "option4": "George Orwell",
+        "ans": "Harper Lee"
+    },
+    {
+        "QuestionNo": 4,
+        "question": "What is the chemical symbol for water?",
+        "option1": "H",
+        "option2": "O",
+        "option3": "W",
+        "option4": "HO",
+        "ans": "H"
+    },
+    {
+        "QuestionNo": 5,
+        "question": "Who painted the Mona Lisa?",
+        "option1": "Pablo Picasso",
+        "option2": "Leonardo da Vinci",
+        "option3": "Vincent van Gogh",
+        "option4": "Michelangelo",
+        "ans": "Leonardo da Vinci"
+    },
+    {
+        "QuestionNo": 6,
+        "question": "What is the tallest mammal?",
+        "option1": "Elephant",
+        "option2": "Giraffe",
+        "option3": "Horse",
+        "option4": "Whale",
+        "ans": "Giraffe"
+    },
+    {
+        "QuestionNo": 7,
+        "question": "Which planet is known as the Red Planet?",
+        "option1": "Venus",
+        "option2": "Mars",
+        "option3": "Jupiter",
+        "option4": "Saturn",
+        "ans": "Mars"
+    },
+    {
+        "QuestionNo": 8,
+        "question": "What is the largest ocean on Earth?",
+        "option1": "Atlantic Ocean",
+        "option2": "Indian Ocean",
+        "option3": "Arctic Ocean",
+        "option4": "Pacific Ocean",
+        "ans": "Pacific Ocean"
+    },
+    {
+        "QuestionNo": 9,
+        "question": "What is the powerhouse of the cell?",
+        "option1": "Ribosome",
+        "option2": "Nucleus",
+        "option3": "Mitochondrion",
+        "option4": "Lysosome",
+        "ans": "Mitochondrion"
+    },
+    {
+        "QuestionNo": 10,
+        "question": "Who is the author of '1984'?",
+        "option1": "Aldous Huxley",
+        "option2": "George Orwell",
+        "option3": "Ray Bradbury",
+        "option4": "Margaret Atwood",
+        "ans": "George Orwell"
+    },
+    {
+        "QuestionNo": 11,
+        "question": "What is the chemical symbol for gold?",
+        "option1": "Au",
+        "option2": "Ag",
+        "option3": "G",
+        "option4": "Go",
+        "ans": "Au"
+    },
+    {
+        "QuestionNo": 12,
+        "question": "Who invented the telephone?",
+        "option1": "Thomas Edison",
+        "option2": "Alexander Graham Bell",
+        "option3": "Nikola Tesla",
+        "option4": "Guglielmo Marconi",
+        "ans": "Alexander Graham Bell"
+    },
+    {
+        "QuestionNo": 13,
+        "question": "What is the chemical symbol for helium?",
+        "option1": "H",
+        "option2": "He",
+        "option3": "Ha",
+        "option4": "Hel",
+        "ans": "He"
+    },
+    {
+        "QuestionNo": 14,
+        "question": "Who painted the Sistine Chapel ceiling?",
+        "option1": "Michelangelo",
+        "option2": "Leonardo da Vinci",
+        "option3": "Raphael",
+        "option4": "Donatello",
+        "ans": "Michelangelo"
+    },
+    {
+        "QuestionNo": 15,
+        "question": "What is the largest organ in the human body?",
+        "option1": "Liver",
+        "option2": "Brain",
+        "option3": "Skin",
+        "option4": "Heart",
+        "ans": "Skin"
+    },
+    {
+        "QuestionNo": 16,
+        "question": "Who discovered penicillin?",
+        "option1": "Alexander Fleming",
+        "option2": "Louis Pasteur",
+        "option3": "Marie Curie",
+        "option4": "Robert Koch",
+        "ans": "Alexander Fleming"
+    },
+    {
+        "QuestionNo": 17,
+        "question": "What is the chemical symbol for iron?",
+        "option1": "Fe",
+        "option2": "Ir",
+        "option3": "I",
+        "option4": "In",
+        "ans": "Fe"
+    },
+    {
+        "QuestionNo": 18,
+        "question": "Who wrote 'The Great Gatsby'?",
+        "option1": "F. Scott Fitzgerald",
+        "option2": "Ernest Hemingway",
+        "option3": "Mark Twain",
+        "option4": "T.S. Eliot",
+        "ans": "F. Scott Fitzgerald"
+    },
+    {
+        "QuestionNo": 19,
+        "question": "What is the chemical symbol for silver?",
+        "option1": "Si",
+        "option2": "Ag",
+        "option3": "S",
+        "option4": "Sl",
+        "ans": "Ag"
+    },
+    {
+        "QuestionNo": 20,
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "option1": "Jane Austen",
+        "option2": "Charlotte Bronte",
+        "option3": "Emily Bronte",
+        "option4": "George Eliot",
+        "ans": "Jane Austen"
+    }
+]
